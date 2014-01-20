@@ -1,0 +1,9 @@
+numpy
+# this is a tricky install, but here we are
+matplotlib
+pandas
+networkx
+ipython
+pyzmq
+tornado
+jinja2
