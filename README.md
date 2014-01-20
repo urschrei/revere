@@ -1,3 +1,5 @@
+![groups](figures/groups_gh.png "Groups")
+
 Porting [Kieran Healy](http://kieranhealy.org)'s ([@kjhealy](https://twitter.com/kjhealy)) *Paul Revere* data exploration to Python, using Pandas and NetworkX.
 
 Tidies up people and group names, and calculates both betweenness and eigenvector centrality for the `people` graph:
@@ -35,7 +37,6 @@ Output to D3. Maybe use Bokeh / Vincent
 
 ![people](figures/people_gh.png "People")
 
-![groups](figures/groups_gh.png "Groups")
 
 ---
 
