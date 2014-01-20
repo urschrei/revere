@@ -1,4 +1,4 @@
-![groups](figures/groups_gh.png "Part of a series on crazy assholes")
+![groups](figures/groups_gh.png "I want to be in the London Enemies. It sounds cool.")
 
 Porting [Kieran Healy](http://kieranhealy.org)'s ([@kjhealy](https://twitter.com/kjhealy)) *Paul Revere* data exploration to Python, using Pandas and NetworkX.
 
@@ -33,9 +33,9 @@ Eigenvector centrality:
 The notebook's available to be viewed online [here](http://nbviewer.ipython.org/github/urschrei/revere/blob/master/revere.ipynb)
 
 ### TODO
-Output to D3. Maybe use Bokeh / Vincent
+Output to D3? Maybe use Bokeh / Vincent? [Ceiling cat cannot say](http://corprew.org/content/lolcat-wasteland/).
 
-![people](figures/people_gh.png "People")
+![people](figures/people_gh.png "Paul Revere = party boy")
 
 
 ---
