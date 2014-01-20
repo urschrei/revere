@@ -3,6 +3,7 @@ Porting [Kieran Healy](http://kieranhealy.org)'s ([@kjhealy](https://twitter.com
 Tidies up people and group names, and calculates both betweenness and eigenvector centrality for the `people` graph:
 
 Betweenness centrality:
+
 1. Paul Revere: 0.115
 2. Thomas Urann: 0.0694
 3. Joseph Warren: 0.0552
@@ -15,6 +16,7 @@ Betweenness centrality:
 10. Thomas Chase: 0.0267
 
 Eigenvector centrality:
+
 1. Paul Revere: 0.176
 2. Nathaniel Barber: 0.175
 3. John Hoffins: 0.175
