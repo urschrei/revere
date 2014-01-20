@@ -1,4 +1,4 @@
-Porting Kieran Healy's (http://kieranhealy.org/[@kjhealy](https://twitter.com/kjhealy)) *Paul Revere* data exploration to Python, using Pandas and NetworkX.
+Porting [Kieran Healy](http://kieranhealy.org)'s ([@kjhealy](https://twitter.com/kjhealy)) *Paul Revere* data exploration to Python, using Pandas and NetworkX.
 
 Tidies up people and group names, but doesn't yet implement Bonacich.
 
