@@ -1,4 +1,4 @@
-![groups](figures/groups_gh.png "Groups")
+![groups](figures/groups_gh.png "Part of a series on crazy assholes")
 
 Porting [Kieran Healy](http://kieranhealy.org)'s ([@kjhealy](https://twitter.com/kjhealy)) *Paul Revere* data exploration to Python, using Pandas and NetworkX.
 
